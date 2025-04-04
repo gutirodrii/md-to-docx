@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ```bash
 python -m flask run
 ```
-### Docker (Recommended)
+### Docker (Recommended)
 1. Build the Docker image:
 
 ```bash
